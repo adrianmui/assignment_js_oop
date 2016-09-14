@@ -1,4 +1,6 @@
 # assignment_js_oop
 Objectify! Construct! Prototype!  Win.
 
-Adrian + CJ
+[A JavaScript project using objects, constructors and prototypes from the Viking Code School](http://www.vikingcodeschool.com)
+
+CJ + Adrian
